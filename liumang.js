@@ -1,6 +1,7 @@
 (function() {
 	var sou1 = document.getElementById('sou');
 	var jpg1 = document.getElementById('jpg2');
+	//图片的显示
 	/*sou1.onplay = function(){
 		console.log("sou1");		
 		jpg1.style.display = 'none';
